@@ -1,3 +1,5 @@
+# Credit : Jonathan Paulson
+
 spring_groups = []
 
 input_file = open("input.txt", "r")
